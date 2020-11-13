@@ -1,6 +1,8 @@
 ## Pre-re:Invent'20 Launches 🚀 (November 2020)
 
-- 🍫 []()
+- 🚀[Introducing AWS Glue DataBrew](https://aws.amazon.com/blogs/aws/announcing-aws-glue-databrew-a-visual-data-preparation-tool-that-helps-you-clean-and-normalize-data-faster/)
+- 🚀[Introducing AWS Gateway Load Balancer](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-gateway-load-balancer/)
+- 🍫 [Amazon EventBridge introduces support for Event Replay](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-introduces-support-for-event-replay/)
 - 🌊 []()
 
 ## re:Invent'20 (NOV. 30 – DEC. 18, 2020 - Online Conference)
@@ -26,7 +28,6 @@
 - 🚀[]()
 - 🍫[]()
 - 🌊[]()
-
 
 ## Videos 🍿
 
