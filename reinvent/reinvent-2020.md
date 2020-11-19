@@ -7,6 +7,8 @@
 - 🍫 [Network Load Balancer now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/)
 - 🍫 [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
 - 🍫 [Lightsail Containers: An Easy Way to Run your Containers in the Cloud](https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29)
+- 🍫 [Introducing Amazon S3 Storage Lens – Organization-wide Visibility Into Object Storage](https://aws.amazon.com/blogs/aws/s3-storage-lens/)
+- 🍫 AWS Step Functions now supports Amazon [API Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/) and  [Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-amazon-eks-service-integration/) service integration
 
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
@@ -45,6 +47,5 @@
 ## Credits 📫
 
 * [re:Invent](https://reinvent.awsevents.com/)
-* [@zoph](https://twitter.com/zoph)
+* crafted by [@zoph](https://twitter.com/zoph) / [Blog](https://zoph.me/)
 * [zoph.io - Cloud Advisory Boutique](https://zoph.io)
-* [Blog](https://zoph.me/)
