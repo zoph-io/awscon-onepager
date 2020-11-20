@@ -9,7 +9,8 @@
 - 🍫 [Lightsail Containers: An Easy Way to Run your Containers in the Cloud](https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29)
 - 🍫 [Introducing Amazon S3 Storage Lens – Organization-wide Visibility Into Object Storage](https://aws.amazon.com/blogs/aws/s3-storage-lens/)
 - 🍫 AWS Step Functions now supports Amazon [API Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/) and  [Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-amazon-eks-service-integration/) service integration
-
+- 🍫 [Control the evolution of data streams using the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/11/control-evolution-data-streams-using-aws-glue-schema-registry/)
+- 🍫 [AWS Backup and AWS Organizations bring cross-account backup feature](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/)
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
 
