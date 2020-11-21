@@ -11,11 +11,12 @@
 - 🍫 AWS Step Functions now supports Amazon [API Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/) and  [Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-amazon-eks-service-integration/) service integration
 - 🍫 [Control the evolution of data streams using the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/11/control-evolution-data-streams-using-aws-glue-schema-registry/)
 - 🍫 [AWS Backup and AWS Organizations bring cross-account backup feature](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/)
+- 🍫 [AWS Trusted Advisor enables multi-account reporting of best practice recommendations with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-trusted-advisor-enables-multi-account-reporting-of-best-practice-recommendations-with-aws-organizations/)
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
 
 - 🚀 = Launch / New Service
-- 🍫 = New feature / enhancement
+- 🍫 = New feature / Enhancement
 - 🌊 = Preview
 
 ### Week 1 - <30 Nov - 4 Dec>
@@ -42,6 +43,8 @@
 * [re:Invent Videos](https://awsstash.com/).
 
 ## Blog posts 📰
+
+* 
 * 
 
 
