@@ -12,6 +12,7 @@
 - 🍫 [Control the evolution of data streams using the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/11/control-evolution-data-streams-using-aws-glue-schema-registry/)
 - 🍫 [AWS Backup and AWS Organizations bring cross-account backup feature](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/)
 - 🍫 [AWS Trusted Advisor enables multi-account reporting of best practice recommendations with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-trusted-advisor-enables-multi-account-reporting-of-best-practice-recommendations-with-aws-organizations/)
+- 🍫 [AWS X-Ray now supports trace context propagation for Amazon Simple Storage Service (S3)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/)
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
 
