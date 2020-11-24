@@ -11,6 +11,9 @@
 - 🍫 AWS Step Functions now supports Amazon [API Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/) and  [Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-amazon-eks-service-integration/) service integration
 - 🍫 [Control the evolution of data streams using the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/11/control-evolution-data-streams-using-aws-glue-schema-registry/)
 - 🍫 [AWS Backup and AWS Organizations bring cross-account backup feature](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/)
+- 🍫 [Announcing Code Signing, a trust and integrity control for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-code-signing-a-trust-and-integrity-control-for-aws-lambda/)
+- 🍫 [AWS Security Hub integrates with AWS Organizations for simplified security posture management](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-integrates-with-aws-organizations-for-simplified-security-posture-management/)
+
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
 

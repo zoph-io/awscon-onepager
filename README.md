@@ -1,6 +1,6 @@
 # 📝 AWScon-OnePager
 
-This repository intend to centralize one-pagers recap about [AWS Events / Conferences](https://aws.amazon.com/events/).
+This repository intend to centralize digest one-pagers recap about [AWS Events / Conferences](https://aws.amazon.com/events/).
 
 ## Index
 
@@ -9,7 +9,7 @@ This repository intend to centralize one-pagers recap about [AWS Events / Confer
    - [2019](reinvent/reinvent-2019.md)
    - [2020](reinvent/reinvent-2020.md)
 2. [re:Inforce](https://reinforce.awsevents.com/)
-3. [re:Mars]()
+3. [re:Mars](https://remars.amazonevents.com/)
 4. [Innovate](https://aws.amazon.com/events/aws-innovate/)
 
 ## Contribute
