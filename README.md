@@ -16,6 +16,9 @@ This repository intend to centralize digest one-pagers recap about [AWS Events /
 
 Don't hesitate to contribute to this one-pagers, just create a Pull Request from your forked git repository. Thanks! 🤝
 
+### Contributors
+
+
 ## License
 
 [Apache License Version 2.0](LICENSE)
