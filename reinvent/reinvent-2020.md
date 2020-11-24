@@ -15,6 +15,7 @@
 - 🍫 [AWS X-Ray now supports trace context propagation for Amazon Simple Storage Service (S3)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/)
 - 🍫 [Announcing Code Signing, a trust and integrity control for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-code-signing-a-trust-and-integrity-control-for-aws-lambda/)
 - 🍫 [AWS Security Hub integrates with AWS Organizations for simplified security posture management](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-integrates-with-aws-organizations-for-simplified-security-posture-management/)
+- 🍫 [You now can use a SQL-compatible query language to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
 
