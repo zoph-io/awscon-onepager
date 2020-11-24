@@ -18,7 +18,6 @@ Don't hesitate to contribute to this one-pagers, just create a Pull Request from
 
 ### Contributors
 
-
 ## License
 
 [Apache License Version 2.0](LICENSE)
