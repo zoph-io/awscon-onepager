@@ -3,6 +3,7 @@
 - 🚀 [Introducing AWS Glue DataBrew](https://aws.amazon.com/blogs/aws/announcing-aws-glue-databrew-a-visual-data-preparation-tool-that-helps-you-clean-and-normalize-data-faster/)
 - 🚀 [Introducing AWS Gateway Load Balancer](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-gateway-load-balancer/)
 - 🚀 [AWS Network Firewall – New Managed Firewall Service in VPC](https://aws.amazon.com/blogs/aws/aws-network-firewall-new-managed-firewall-service-in-vpc/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29)
+- 🚀 [Introducing Amazon Managed Workflows for Apache Airflow (MWAA)](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/)
 - 🍫 [Amazon EventBridge introduces support for Event Replay](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-introduces-support-for-event-replay/)
 - 🍫 [Network Load Balancer now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/)
 - 🍫 [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
@@ -17,6 +18,12 @@
 - 🍫 [AWS Security Hub integrates with AWS Organizations for simplified security posture management](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-integrates-with-aws-organizations-for-simplified-security-posture-management/)
 - 🍫 [You now can use a SQL-compatible query language to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
 - 🍫 [Now you can use Amazon Kinesis Data Streams to capture item-level changes in your Amazon DynamoDB tables](https://aws.amazon.com/pt/about-aws/whats-new/2020/11/now-you-can-use-amazon-kinesis-data-streams-to-capture-item-level-changes-in-your-amazon-dynamodb-table/)
+- 🍫 [Announcing Modules for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-modules-for-aws-cloudformation/)
+- 🍫 [AWS Lambda now supports Advanced Vector Extensions 2 (AVX2)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-advance-vector-extensions-2/)
+- 🍫 [AWS Single Sign-On enables attribute-based access control for workforce users to simplify permissions in AWS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-attribute-based-access-control-simplify-permissions/)
+- 🍫 [AWS Glue now supports workload partitioning to further improve the reliability of Spark applications](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-glue-now-supports-workload-partitioning-to-further-improve-the-reliability-of-spark-applications/)
+- 🍫 [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
+
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
 
