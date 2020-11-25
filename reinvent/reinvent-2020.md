@@ -23,6 +23,7 @@
 - 🍫 [AWS Single Sign-On enables attribute-based access control for workforce users to simplify permissions in AWS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-attribute-based-access-control-simplify-permissions/)
 - 🍫 [AWS Glue now supports workload partitioning to further improve the reliability of Spark applications](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-glue-now-supports-workload-partitioning-to-further-improve-the-reliability-of-spark-applications/)
 - 🍫 [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
+- 🍫 [AWS Lambda now supports batch windows of up to 5 minutes for functions with Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-now-supports-batch-windows-of-up-to-5-minutes-for-functions/)
 
 
 ## re:Invent'20 (Nov. 30 – Dec. 18, 2020 - Online Conference)
