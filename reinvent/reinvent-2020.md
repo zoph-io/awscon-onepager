@@ -35,8 +35,21 @@
 ### Week 1 - <30 Nov - 4 Dec>
 
 - 🚀 [Announcing Amazon EC2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/)
-- 🍫 []()
-- 🌊 []()
+- 🚀 [Introducing Amazon EC2 D3 and D3en, the next generation of dense HDD storage instances](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-ec2-d3-and-d3en-the-next-generation-of-dense-hdd-storage-instances/)
+- 🚀 [AWS Lambda now supports container images as a packaging format](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-container-images-as-a-packaging-format/)
+- 🚀 [Announcing Amazon ECR Public and Amazon ECR Public Gallery](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-ecr-public-and-amazon-ecr-public-gallery/)
+- 🚀 [Amazon Web Services Announces AWS Proton](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-web-services-announces-aws-proton/)
+- 🚀 [New- Amazon DevOps Guru Helps Identify Application Errors and Fixes](https://aws.amazon.com/blogs/aws/amazon-devops-guru-machine-learning-powered-service-identifies-application-errors-and-fixes/)
+- 🚀 [AWS Panorama Appliance: Bringing Computer Vision Applications to the Edge](https://aws.amazon.com/blogs/aws/using-computer-vision-applications-at-the-edge/)
+- 🚀 [Amazon Monitron, a Simple and Cost-Effective Service Enabling Predictive Maintenance](https://aws.amazon.com/blogs/aws/amazon-monitron-a-simple-cost-effective-service-enabling-predictive-maintenance/)
+- 🍫 [Introducing new Amazon EC2 R5b instances featuring 60 Gbps of EBS Bandwidth and 260K IOPS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ec2-r5b-instances-featuring-60-gbps-of-ebs-bandwidth-and-260K-iops/)
+- 🍫 [Amazon EKS adds support for EC2 Spot Instances in managed node groups](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-support-ec2-spot-instances-managed-node-groups/)
+- 🍫 [Announcing new AWS Wavelength Zone in Las Vegas](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zone-las-vegas/)
+- 🍫 [Introducing Amazon EKS Distro - an open source Kubernetes distribution used by Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-eks-distro/)
+- 🍫 [Introducing new Amazon EBS general purpose volumes, gp3](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ebs-general-purpose-volumes-gp3/)
+- 🍫 [New for AWS Lambda – 1ms Billing Granularity Adds Cost Savings](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-1ms-billing-granularity-adds-cost-savings/)
+- 🌊 [AWS quadruples per-volume maximum capacity and performance on io2 volumes (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quadruples-per-volume-maximum-capacity-and-performance-on-io2-volumes-in-preview/)
+- 🌊 [Introducing the next version of Amazon Aurora Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-next-version-of-amazon-aurora-serverless-in-preview/)
 
 ### Week 2 - <7 Dec - 11 Dec>
 
