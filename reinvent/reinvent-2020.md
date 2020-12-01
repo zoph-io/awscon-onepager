@@ -34,7 +34,7 @@
 
 ### Week 1 - <30 Nov - 4 Dec>
 
-- 🚀 []()
+- 🚀 [Announcing Amazon EC2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/)
 - 🍫 []()
 - 🌊 []()
 
