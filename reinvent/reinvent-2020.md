@@ -48,8 +48,13 @@
 - 🍫 [Introducing Amazon EKS Distro - an open source Kubernetes distribution used by Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-eks-distro/)
 - 🍫 [Introducing new Amazon EBS general purpose volumes, gp3](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ebs-general-purpose-volumes-gp3/)
 - 🍫 [New for AWS Lambda – 1ms Billing Granularity Adds Cost Savings](https://aws.amazon.com/blogs/aws/new-for-aws-lambda-1ms-billing-granularity-adds-cost-savings/)
+- 🍫 [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores for Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-supports-10gb-memory-6-vcpu-cores-lambda-functions/)
+- 🍫 [Amazon S3 now delivers strong read-after-write consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications/)
+- 🍫 [Amazon S3 Replication adds support for two-way replication](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-two-way-replication/)
+- 🍫 [AWS Amplify announces new Admin UI](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-amplify-announces-new-admin-ui/)
 - 🌊 [AWS quadruples per-volume maximum capacity and performance on io2 volumes (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quadruples-per-volume-maximum-capacity-and-performance-on-io2-volumes-in-preview/)
 - 🌊 [Introducing the next version of Amazon Aurora Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-next-version-of-amazon-aurora-serverless-in-preview/)
+- 🌊 [Announcing AWS Glue Elastic Views Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-glue-elastic-view-preview/)
 
 ### Week 2 - <7 Dec - 11 Dec>
 
