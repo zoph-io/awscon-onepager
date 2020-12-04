@@ -52,6 +52,7 @@
 - 🍫 [Amazon S3 now delivers strong read-after-write consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-now-delivers-strong-read-after-write-consistency-automatically-for-all-applications/)
 - 🍫 [Amazon S3 Replication adds support for two-way replication](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-two-way-replication/)
 - 🍫 [AWS Amplify announces new Admin UI](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-amplify-announces-new-admin-ui/)
+- 🍫 [Serverless Batch Scheduling with AWS Batch and AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/)
 - 🌊 [AWS quadruples per-volume maximum capacity and performance on io2 volumes (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quadruples-per-volume-maximum-capacity-and-performance-on-io2-volumes-in-preview/)
 - 🌊 [Introducing the next version of Amazon Aurora Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-next-version-of-amazon-aurora-serverless-in-preview/)
 - 🌊 [Announcing AWS Glue Elastic Views Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-glue-elastic-view-preview/)
