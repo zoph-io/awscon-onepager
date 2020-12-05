@@ -53,10 +53,15 @@
 - 🍫 [Amazon S3 Replication adds support for two-way replication](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-two-way-replication/)
 - 🍫 [AWS Amplify announces new Admin UI](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-amplify-announces-new-admin-ui/)
 - 🍫 [Serverless Batch Scheduling with AWS Batch and AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/)
+- 🍫 [Amazon EMR now provides up to 30% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-now-provides-up-to-30-lower-cost-and-up-to-15-improved-performance/)
+- 🍫 [Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-supports-managed-dr-with-cross-region-automated-backups/)
+- 🍫 [AWS CloudTrail provides more granular control of data event logging through advanced event selectors](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloudtrail-provides-more-granular-control-of-data-event-logging/)
+- 🍫 [AWS Security Hub adds open source tool integrations with Kube-bench and Cloud Custodian](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-adds-open-source-tool-integration-with-kube-bench-and-cloud-custodian/)
 - 🌊 [AWS quadruples per-volume maximum capacity and performance on io2 volumes (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quadruples-per-volume-maximum-capacity-and-performance-on-io2-volumes-in-preview/)
 - 🌊 [Introducing the next version of Amazon Aurora Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-next-version-of-amazon-aurora-serverless-in-preview/)
 - 🌊 [Announcing AWS Glue Elastic Views Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-glue-elastic-view-preview/)
-
+- 🌊 [Python Support for Amazon CodeGuru is available in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/python-support-for-amazon-codeguru-is-available-in-preview/)
+- 🌊 [Amazon ECS Announces the Preview of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-preview-of-ecs-deployment-circuit-breaker/)
 ### Week 2 - <7 Dec - 11 Dec>
 
 - 🚀 []()
