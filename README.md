@@ -18,6 +18,25 @@ This repository intend to centralize digest one-pagers recap about [AWS Events /
 
 ## Contributors
 
+<table>
+<tr>
+    <td align="center">
+        <a href=https://github.com/z0ph>
+            <img src=https://avatars1.githubusercontent.com/u/20846187?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Victor GRENU/>
+            <br />
+            <sub style="font-size:10px"><b>Victor GRENU</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/donatoaz>
+            <img src=https://avatars2.githubusercontent.com/u/127527?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Donato Azevedo/>
+            <br />
+            <sub style="font-size:10px"><b>Donato Azevedo</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
 
 ## Contribute
 
