@@ -16,12 +16,13 @@ This repository intend to centralize digest one-pagers recap about [AWS Events /
 
 [Apache License Version 2.0](LICENSE)
 
-## About
+## Contributors
 
-[zoph.io](https://zoph.io) - AWS consulting boutique (Architecture, Automation and Security)
 
 ## Contribute
 
 Don't hesitate to contribute to this one-pagers, just create a Pull Request from your forked git repository. Thanks! 🤝
 
-## Contributors
+## About
+
+[zoph.io](https://zoph.io) - AWS consulting boutique (Architecture, Automation and Security)
