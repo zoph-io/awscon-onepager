@@ -64,7 +64,7 @@
 - 🌊 [Amazon ECS Announces the Preview of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-preview-of-ecs-deployment-circuit-breaker/)
 ### Week 2 - <7 Dec - 11 Dec>
 
-- 🚀 []()
+- 🚀 [AWS Region in Melbourne, Australia](https://aws.amazon.com/fr/blogs/aws/in-the-works-aws-region-in-melbourne-australia/)
 - 🍫 []()
 - 🌊 []()
 
