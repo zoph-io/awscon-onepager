@@ -34,6 +34,13 @@ This repository intend to centralize digest one-pagers recap about [AWS Events /
             <sub style="font-size:10px"><b>Donato Azevedo</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href=https://github.com/flemzord>
+            <img src=https://avatars1.githubusercontent.com/u/1952914?v=4 width="60;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Maxence Maireaux/>
+            <br />
+            <sub style="font-size:10px"><b>Maxence Maireaux</b></sub>
+        </a>
+    </td>
 </tr>
 </table>
 
