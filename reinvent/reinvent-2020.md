@@ -65,8 +65,14 @@
 ### Week 2 - <7 Dec - 11 Dec>
 
 - 🚀 [AWS Region in Melbourne, Australia](https://aws.amazon.com/fr/blogs/aws/in-the-works-aws-region-in-melbourne-australia/)
-- 🍫 []()
-- 🌊 []()
+- 🚀 [Introducing Amazon SageMaker Pipelines, first purpose built CI/CD service for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-pipelines-first-purpose-built-ci-cd-service-machine-learning/)
+- 🚀 [Introducing Amazon HealthLake to make sense of health data](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-healthlake-to-make-sense-of-health-data/)
+- 🚀 [Introducing Amazon SageMaker Data Wrangler – The fastest and easiest way to prepare data for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-data-wrangler-the-fastest-and-easiest-way-to-prepare-data-for-machine-learning/)
+- 🚀 [AWS announces AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-aws-audit-manager/)
+- 🚀 [Announcing Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-forecast-weather-index-include-local-weather-increase-forecasting-model-accuracy/)
+- 🍫 [Amazon ECR announces cross region replication of images](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecr-announces-cross-region-replication-of-images/)
+- 🍫 [Introducing distributed training on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-training-on-amazon-sagemaker/)
+- 🌊 [AWS announces Amazon Redshift ML (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/)
 
 ### Week 3 - <14 Dec - 18 Dec>
 
