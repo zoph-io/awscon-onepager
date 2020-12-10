@@ -70,9 +70,18 @@
 - 🚀 [Introducing Amazon SageMaker Data Wrangler – The fastest and easiest way to prepare data for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-data-wrangler-the-fastest-and-easiest-way-to-prepare-data-for-machine-learning/)
 - 🚀 [AWS announces AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-aws-audit-manager/)
 - 🚀 [Announcing Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-forecast-weather-index-include-local-weather-increase-forecasting-model-accuracy/)
+- 🚀 [Amazon EMR Studio makes it easier for data scientists to build and deploy code](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-introduces-amazon-emr-studio-makes-it-easier-for-data-scientists-to-build-and-deploy-code/)
 - 🍫 [Amazon ECR announces cross region replication of images](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecr-announces-cross-region-replication-of-images/)
 - 🍫 [Introducing distributed training on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-training-on-amazon-sagemaker/)
+- 🍫 [Amazon Redshift launches the ability to easily move clusters between AWS Availability Zones (AZs)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-launches-ability-easily-move-clusters-between-aws-availability-zones/)
+- 🍫 [Simplify running Apache Spark jobs with Amazon EMR on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/12/simplify-running-apache-spark-jobs-amazon-emr-amazon-eks/)
+- 🍫 [Amazon Redshift launches RA3.xlplus nodes with managed storage](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-launches-ra3-xlplus-nodes-managed-storage/)
+- 🍫 [Amazon Redshift announces Automatic Table Optimization](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-automatic-table-optimization/)
 - 🌊 [AWS announces Amazon Redshift ML (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/)
+- 🌊 [Amazon Redshift announces support for native JSON and semi-structured data processing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-support-native-json-semi-structured-data-processing/)
+- 🌊 [Amazon Redshift announces native console integration with partners (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-native-console-integration-with-partners-preview/)
+- 🌊 [Amazon Redshift introduces data sharing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-introduces-data-sharing-preview/)
+- 🌊 [AWS Lake Formation features: Transactions, Row-level Security, and Acceleration](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-preview-aws-lake-formation-features/)
 
 ### Week 3 - <14 Dec - 18 Dec>
 
@@ -80,10 +89,11 @@
 - 🍫 []()
 - 🌊 []()
 
-## Videos 🍿
+## Videos & Labs 🍿
 
-* [Official Playlist]().
-* [re:Invent Videos](https://awsstash.com/).
+* [Official Playlist]()
+* [Hands-on Labs](https://pages.awscloud.com/re-invent-hands-on-labs-registration_2020.html)
+* [re:Invent Videos](https://awsstash.com/)
 
 ## Blog posts 📰
 
@@ -94,5 +104,5 @@
 ## Credits 📫
 
 * [re:Invent](https://reinvent.awsevents.com/)
-* crafted by [@zoph](https://twitter.com/zoph) / [Blog](https://zoph.me/)
+* [@zoph](https://twitter.com/zoph) / [Blog](https://zoph.me/)
 * [zoph.io - Cloud Advisory Boutique](https://zoph.io)
