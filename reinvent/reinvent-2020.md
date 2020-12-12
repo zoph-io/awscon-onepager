@@ -81,11 +81,13 @@
 - 🍫 [Amazon Redshift announces Automatic Table Optimization](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-automatic-table-optimization/)
 - 🍫 [Amazon EC2 announces new network performance metrics for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-new-network-performance-metrics-for-ec2-instances/)
 - 🍫 [AWS customers can now use industry standard Internet Group Management Protocol (IGMP) to easily deploy, manage and scale their multicast applications in AWS cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-customers-use-industry-standard-internet-group-management-protocol/)
+- 🍫 [Amazon Aurora PostgreSQL Integrates with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-postgresql-integrates-with-aws-lambda/)
 - 🌊 [AWS announces Amazon Redshift ML (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/)
 - 🌊 [Amazon Redshift announces support for native JSON and semi-structured data processing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-support-native-json-semi-structured-data-processing/)
 - 🌊 [Amazon Redshift announces native console integration with partners (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-native-console-integration-with-partners-preview/)
 - 🌊 [Amazon Redshift introduces data sharing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-introduces-data-sharing-preview/)
 - 🌊 [AWS Lake Formation features: Transactions, Row-level Security, and Acceleration](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-preview-aws-lake-formation-features/)
+- 🌊 [Introducing Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-aurora-r6g-instance-types-powered-by-aws-graviton-2-processors-in-preview/)
 
 ### Week 3 - <14 Dec - 18 Dec>
 
