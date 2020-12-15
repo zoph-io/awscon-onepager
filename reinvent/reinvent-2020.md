@@ -91,7 +91,7 @@
 
 ### Week 3 - <14 Dec - 18 Dec>
 
-- 🚀 []()
+- 🚀 [AWS CloudShell](https://aws.amazon.com/fr/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
 - 🍫 []()
 - 🌊 []()
 
