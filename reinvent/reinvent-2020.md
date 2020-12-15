@@ -92,8 +92,8 @@
 ### Week 3 - <14 Dec - 18 Dec>
 
 - 🚀 [AWS CloudShell](https://aws.amazon.com/fr/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
-- 🍫 []()
-- 🌊 []()
+- 🚀  Introducing AWS Systems [Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/), [Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/), [Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
+- 🌊 [AWS Fault Injection Simulator (coming in 2021)](https://aws.amazon.com/fis/)
 
 ## Videos & Labs 🍿
 
