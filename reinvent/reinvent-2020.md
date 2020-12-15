@@ -93,6 +93,8 @@
 
 - 🚀 [AWS CloudShell](https://aws.amazon.com/fr/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
 - 🚀  Introducing AWS Systems [Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/), [Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/), [Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
+- 🌊 [AWS announces Amazon Managed Service for Grafana in Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-managed-service-for-grafana-in-preview/)
+- 🌊 [AWS announces Amazon Managed Service for Prometheus for container monitoring](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-managed-service-for-prometheus/)
 - 🌊 [AWS Fault Injection Simulator (coming in 2021)](https://aws.amazon.com/fis/)
 
 ## Videos & Labs 🍿
