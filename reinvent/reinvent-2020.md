@@ -93,9 +93,16 @@
 
 - 🚀 [AWS CloudShell](https://aws.amazon.com/fr/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
 - 🚀  Introducing AWS Systems [Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/), [Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/), [Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
+- 🍫 [AWS Lambda now supports self-managed Apache Kafka as an event source](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-self-managed-apache-kafka-as-an-event-source/)
+- 🍫 [AWS Personal Health Dashboard now supports organization-wide event aggregation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-personal-health-dashboard-supports-organization-wide-event-aggregation/)
+- 🍫 [Cost & Usage Report Now Available to Member (Linked) Accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/cost-and-usage-report-now-available-to-member-linked-accounts/)
 - 🌊 [AWS announces Amazon Managed Service for Grafana in Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-managed-service-for-grafana-in-preview/)
 - 🌊 [AWS announces Amazon Managed Service for Prometheus for container monitoring](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-managed-service-for-prometheus/)
 - 🌊 [AWS Fault Injection Simulator (coming in 2021)](https://aws.amazon.com/fis/)
+- 🌊 [AWS announces Amazon Location Service (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-location-service-preview/)
+- 🌊 [AWS IoT Device Management introduces Fleet Hub, a new, easy way to monitor and interact with IoT device fleets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-device-management-introduces-fleet-hub/)
+- 🌊 [AWS IoT Core Device Advisor now available in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-core-device-advisor-now-available-in-preview/)
+- 🌊 [Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/)
 
 ## Videos & Labs 🍿
 
