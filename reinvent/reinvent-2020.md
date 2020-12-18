@@ -92,10 +92,14 @@
 ### Week 3 - <14 Dec - 18 Dec>
 
 - 🚀 [AWS CloudShell](https://aws.amazon.com/fr/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
-- 🚀  Introducing AWS Systems [Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/), [Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/), [Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
+- 🚀 Introducing AWS Systems [Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/), [Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/), [Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
 - 🍫 [AWS Lambda now supports self-managed Apache Kafka as an event source](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-self-managed-apache-kafka-as-an-event-source/)
 - 🍫 [AWS Personal Health Dashboard now supports organization-wide event aggregation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-personal-health-dashboard-supports-organization-wide-event-aggregation/)
 - 🍫 [Cost & Usage Report Now Available to Member (Linked) Accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/cost-and-usage-report-now-available-to-member-linked-accounts/)
+- 🍫 [Announcing Amazon Route 53 support for DNSSEC](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/)
+- 🍫 [Announcing Amazon Route 53 support for DNSSEC](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/)
+- 🍫 [Attribute-Based Access Control (ABAC) for the AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2020/12/attribute-based-access-control-abac-aws-key-management-service/)
+- 🍫 [EC2 Image Builder now supports container images](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-image-builder-supports-container-images/)
 - 🌊 [AWS announces Amazon Managed Service for Grafana in Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-managed-service-for-grafana-in-preview/)
 - 🌊 [AWS announces Amazon Managed Service for Prometheus for container monitoring](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-managed-service-for-prometheus/)
 - 🌊 [AWS Fault Injection Simulator (coming in 2021)](https://aws.amazon.com/fis/)
@@ -103,16 +107,17 @@
 - 🌊 [AWS IoT Device Management introduces Fleet Hub, a new, easy way to monitor and interact with IoT device fleets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-device-management-introduces-fleet-hub/)
 - 🌊 [AWS IoT Core Device Advisor now available in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-core-device-advisor-now-available-in-preview/)
 - 🌊 [Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/)
+- 🌊 [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sqs-supports-high-throughput-fifo-queues-preview/)
 
 ## Videos & Labs 🍿
 
-* [Official Playlist]()
+* [AWS re:Invent 2020 Agenda](https://cloudpegboard.com/reinvent2020.html)
 * [Hands-on Labs](https://pages.awscloud.com/re-invent-hands-on-labs-registration_2020.html)
 * [re:Invent Videos](https://awsstash.com/)
 
 ## Blog posts 📰
 
-* 
+* [AWS re:Invent 2020 — Serverless Sessions to Watch](https://sbrisals.medium.com/aws-re-invent-2020-serverless-sessions-to-watch-d6655e0e6f82)
 * 
 
 
