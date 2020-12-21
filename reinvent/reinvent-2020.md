@@ -97,7 +97,6 @@
 - 🍫 [AWS Personal Health Dashboard now supports organization-wide event aggregation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-personal-health-dashboard-supports-organization-wide-event-aggregation/)
 - 🍫 [Cost & Usage Report Now Available to Member (Linked) Accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/cost-and-usage-report-now-available-to-member-linked-accounts/)
 - 🍫 [Announcing Amazon Route 53 support for DNSSEC](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/)
-- 🍫 [Announcing Amazon Route 53 support for DNSSEC](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/)
 - 🍫 [Attribute-Based Access Control (ABAC) for the AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2020/12/attribute-based-access-control-abac-aws-key-management-service/)
 - 🍫 [EC2 Image Builder now supports container images](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-image-builder-supports-container-images/)
 - 🌊 [AWS announces Amazon Managed Service for Grafana in Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-managed-service-for-grafana-in-preview/)
