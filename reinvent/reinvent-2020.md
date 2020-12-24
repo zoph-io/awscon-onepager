@@ -112,6 +112,7 @@
 ## Videos & Labs 🍿
 
 * [AWS re:Invent 2020 Agenda](https://cloudpegboard.com/reinvent2020.html)
+* [AWS re:Invent 2020 - Youtube Playlist](https://www.youtube.com/playlist?list=PLhr1KZpdzukenb7A9aDtk3qHqMwy2Baxq)
 * [Hands-on Labs](https://pages.awscloud.com/re-invent-hands-on-labs-registration_2020.html)
 * [re:Invent Videos](https://awsstash.com/)
 
