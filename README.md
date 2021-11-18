@@ -59,4 +59,8 @@ Don't hesitate to contribute to this one-pagers, just create a Pull Request from
 
 ## About
 
-[zoph.io](https://zoph.io) - AWS consulting boutique (Architecture, Automation and Security)
+[![zoph.io logo](https://zoph.io/img/logo-right.png)](https://zoph.io)
+
+- [zoph.io](https://zoph.io) - AWS consulting boutique (Architecture, Security, and Automation)
+- :mag_right: Follow updates made to AWS Managed IAM Policies using [MAMIP](https://github.com/z0ph/MAMIP) and this [Twitter bot](https://twitter.com/mamip_aws).
+- :love_letter: [AWS Security Digest Newsletter](http://asd.zoph.io)
