@@ -17,9 +17,6 @@
 - 🚀 = Launch / New Service
 - 🍫 = New feature / Enhancement
 - 🌊 = Preview
-
-### re:Invent'21 - <29 Nov - 03 Dec>
-
 #### November 29th
 
 - 🌊 [Preview – AWS IoT RoboRunner for Building Robot Fleet Management Applications](https://aws.amazon.com/blogs/aws/preview-aws-iot-roborunner-for-building-robot-fleet-management-applications/)
