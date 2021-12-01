@@ -4,8 +4,8 @@
 - 🚀 [AWS Elastic Disaster Recovery](https://aws.amazon.com/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/)
 - 🍫 [Amazon Athena announces cross-account federated query](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-announces-cross-account-federated-query/)
 - 🍫 [AWS Free Tier Data Transfer Expansion – 100 GB From Regions and 1 TB From CloudFront/Month](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)
-- 🍫 [Announcing AWS Graviton2 Support for AWS Fargate – Get up to 40% Better Price-Performance for Your Serverless Containers](https://aws.amazon.com/blogs/aws/announcing-aws-graviton2-support-for-aws-fargate-get-up-to-40-better-price-performance-for-your-serverless-containers/)
-- 🍫 [Announcing usability improvements in the navigation bar of the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-management-console-navigation-bar-improvements/)
+- 🍫 [AWS Graviton2 Support for AWS Fargate – Get up to 40% Better Price-Performance for Your Serverless Containers](https://aws.amazon.com/blogs/aws/announcing-aws-graviton2-support-for-aws-fargate-get-up-to-40-better-price-performance-for-your-serverless-containers/)
+- 🍫 [Usability improvements in the navigation bar of the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-management-console-navigation-bar-improvements/)
 - 🍫 [AWS Lambda now supports cross-account container image pulling from Amazon Elastic Container Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/)
 - 🍫 [Amazon Virtual Private Cloud (VPC) customers can now create IPv6-only subnets and EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-ipv6-subnets-ec2-instances/)
 - 🍫 [AWS Backup adds an additional layer for backup protection with the availability of AWS Backup Vault Lock](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/)
@@ -19,17 +19,34 @@
 - 🌊 = Preview
 #### November 29th
 
-- 🌊 [Preview – AWS IoT RoboRunner for Building Robot Fleet Management Applications](https://aws.amazon.com/blogs/aws/preview-aws-iot-roborunner-for-building-robot-fleet-management-applications/)
+- 🌊 [AWS IoT RoboRunner for Building Robot Fleet Management Applications](https://aws.amazon.com/blogs/aws/preview-aws-iot-roborunner-for-building-robot-fleet-management-applications/)
 - 🚀 [Improved, Automated Vulnerability Management for Cloud Workloads with a New Amazon Inspector](https://aws.amazon.com/blogs/aws/improved-automated-vulnerability-management-for-cloud-workloads-with-a-new-amazon-inspector/)
 - 🍫 [Amazon CodeGuru Reviewer Introduces Secrets Detector to Identify Hardcoded Secrets and Secure Them with AWS Secrets Manager](https://aws.amazon.com/blogs/aws/codeguru-reviewer-secrets-detector-identify-hardcoded-secrets/)
 - 🍫 [AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/blogs/aws/new-aws-control-tower-account-factory-for-terraform/)
 - 🍫 [Amazon CloudWatch Evidently – Experiments and Feature Management](https://aws.amazon.com/blogs/aws/cloudwatch-evidently/)
 - 🍫 [Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/blogs/aws/cloudwatch-rum/)
-- 🍫 [Announcing AWS Well-Architected Custom Lenses: Extend the Well-Architected Framework with Your Internal Best Practices](https://aws.amazon.com/blogs/aws/well-architected-custom-lenses-internal-best-practices/)
+- 🍫 [AWS Well-Architected Custom Lenses: Extend the Well-Architected Framework with Your Internal Best Practices](https://aws.amazon.com/blogs/aws/well-architected-custom-lenses-internal-best-practices/)
 - 🍫 [Use Amazon S3 Event Notifications with Amazon EventBridge](https://aws.amazon.com/blogs/aws/new-use-amazon-s3-event-notifications-with-amazon-eventbridge/)
 - 🍫 [Recycle Bin for EBS Snapshots](https://aws.amazon.com/blogs/aws/new-recycle-bin-for-ebs-snapshots/)
 - 🍫 [Amazon EBS Snapshots Archive](https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshots-archive/)
-- 🍫 [Announcing Pull Through Cache Repositories for Amazon Elastic Container Registry](https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/)
+- 🍫 [Pull Through Cache Repositories for Amazon Elastic Container Registry](https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/)
+
+#### November 30th
+
+- 🌊 [Amazon EMR Serverless (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/)
+- 🌊 [Amazon MSK Serverless (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/)
+- 🌊 [Amazon EC2 Trn1 Instances (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-trn1-instances/)
+- 🌊 [WS Private 5G (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-aws-private-5g/)
+- 🌊 [AWS Backup Adds Support for Amazon S3](https://aws.amazon.com/blogs/aws/preview-aws-backup-adds-support-for-amazon-s3/)
+- 🍫 [Simplify Access Management for Data Stored in Amazon S3](https://aws.amazon.com/blogs/aws/new-simplify-access-management-for-data-stored-in-amazon-s3/)
+- 🍫 [Introducing the S3 Glacier Instant Retrieval Storage Class](https://aws.amazon.com/blogs/aws/amazon-s3-glacier-is-the-best-place-to-archive-your-data-introducing-the-s3-glacier-instant-retrieval-storage-class/)
+- 🍫 [Offline Tape Migration Using AWS Snowball Edge](https://aws.amazon.com/blogs/aws/new-offline-tape-migration-using-aws-snowball-edge/)
+- 🍫 [Enhanced Amazon S3 Integration for Amazon FSx for Lustre](https://aws.amazon.com/blogs/aws/enhanced-amazon-s3-integration-for-amazon-fsx-for-lustre/)
+- 🍫 [AWS Control Tower – Region Deny and Guardrails to Help You Meet Data Residency Requirements](https://aws.amazon.com/blogs/aws/new-for-aws-control-tower-region-deny-and-guardrails-to-help-you-meet-data-residency-requirements/)
+- 🍫 [AWS Outposts Servers in Two Form Factors](https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/)
+- 🍫 [Storage-Optimized Amazon EC2 Instances (Im4gn and Is4gen) Powered by AWS Graviton2 Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/)
+- 🍫 [AWS Lake Formation – General Availability of Cell-Level Security and Governed Tables with Automatic Compaction](https://aws.amazon.com/blogs/aws/aws-lake-formation-general-availability-of-cell-level-security-and-governed-tables-with-automatic-compaction/)
+- 🍫 [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacit](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/)
 
 ## Videos & Labs 🍿
 
