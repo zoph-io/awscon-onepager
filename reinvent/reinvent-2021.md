@@ -63,6 +63,7 @@
 - 🍫 [Network Address Management and Auditing at Scale with Amazon VPC IP Address Manager](https://aws.amazon.com/blogs/aws/network-address-management-and-auditing-at-scale-with-amazon-vpc-ip-address-manager/)
 - 🍫 [Enhanced Dead-letter Queue Management Experience for Amazon SQS Standard Queues](https://aws.amazon.com/blogs/aws/enhanced-dlq-management-sqs/)
 - 🍫 [Site-to-Site Connectivity with AWS Direct Connect SiteLink](https://aws.amazon.com/blogs/aws/new-site-to-site-connectivity-with-aws-direct-connect-sitelink/)
+- 🍫 [AWS Transit Gateway introduces intra-region peering for simplified cloud operations and network connectivity](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transit-gateway-intra-region-cloud-network/)
 
 ## Videos & Labs 🍿
 
