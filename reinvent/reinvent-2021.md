@@ -48,6 +48,22 @@
 - 🍫 [AWS Lake Formation – General Availability of Cell-Level Security and Governed Tables with Automatic Compaction](https://aws.amazon.com/blogs/aws/aws-lake-formation-general-availability-of-cell-level-security-and-governed-tables-with-automatic-compaction/)
 - 🍫 [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacit](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/)
 
+#### December 1st
+
+- 🌊 [Amazon SageMaker Studio Lab, a Free Service to Learn and Experiment with ML](https://aws.amazon.com/blogs/aws/now-in-preview-amazon-sagemaker-studio-lab-a-free-service-to-learn-and-experiment-with-ml/)
+- 🚀 [Amazon VPC Network Access Analyzer](https://aws.amazon.com/blogs/aws/new-amazon-vpc-network-access-analyzer/)
+- 🍫 [Amazon DevOps Guru for RDS to Detect, Diagnose, and Resolve Amazon Aurora-Related Issues using ML](https://aws.amazon.com/blogs/aws/new-amazon-devops-guru-for-rds-to-detect-diagnose-and-resolve-amazon-aurora-related-issues-using-ml/)
+- 🍫 [Amazon RDS Custom for SQL Server Is Generally Available](https://aws.amazon.com/blogs/aws/new-amazon-rds-custom-for-sql-server-is-generally-available/)
+- 🍫 [DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
+- 🍫 [Amazon SageMaker Ground Truth Plus](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-ground-truth-plus/)
+- 🍫 [Create and Manage EMR Clusters and Spark Jobs with Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-create-and-manage-emr-clusters-and-spark-jobs-with-amazon-sagemaker-studio/)
+- 🍫 [Introducing SageMaker Training Compiler](https://aws.amazon.com/blogs/aws/new-introducing-sagemaker-training-compiler/)
+- 🍫 [Amazon SageMaker Inference Recommender](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-recommender/)
+- 🍫 [AWS Shield Advanced Update – Automatic Application Layer DDoS Mitigation](https://aws.amazon.com/blogs/aws/aws-shield-advanced-update-automatic-application-layer-ddos-mitigation/)
+- 🍫 [Network Address Management and Auditing at Scale with Amazon VPC IP Address Manager](https://aws.amazon.com/blogs/aws/network-address-management-and-auditing-at-scale-with-amazon-vpc-ip-address-manager/)
+- 🍫 [Enhanced Dead-letter Queue Management Experience for Amazon SQS Standard Queues](https://aws.amazon.com/blogs/aws/enhanced-dlq-management-sqs/)
+- 🍫 [Site-to-Site Connectivity with AWS Direct Connect SiteLink](https://aws.amazon.com/blogs/aws/new-site-to-site-connectivity-with-aws-direct-connect-sitelink/)
+
 ## Videos & Labs 🍿
 
 - [Youtube Channel](https://www.youtube.com/c/amazonwebservices/videos)
