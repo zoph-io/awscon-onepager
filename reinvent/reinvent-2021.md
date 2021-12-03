@@ -76,6 +76,7 @@
 
 ## Videos & Labs 🍿
 
+- [re:Invent 2021 playlist](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9jfiZENJYPXX8GYUOzQCuT)
 - [Youtube Channel](https://www.youtube.com/c/amazonwebservices/videos)
 
 ## Blog posts 📰
