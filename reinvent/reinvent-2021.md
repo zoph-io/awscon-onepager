@@ -67,12 +67,18 @@
 
 #### December 2nd
 
+- 🌊 [AWS SDK for Rust](https://docs.aws.amazon.com/sdk-for-rust/latest/dg/getting-started.html)
+- 🌊 [AWS SDK for Kotlin](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-kotlin-developer-preview/)
+- 🌊 [AWS SDK for Swift](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-swift-developer-preview/)
+- 🌊 [Introducing AWS Cloud WAN](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-cloud-wan-preview/)
 - 🚀 [AWS re:Post – A Reimagined Q&A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/)
 - 🍫 [Amazon EC2 M1 Mac Instances to Build & Test Apps for iPhone, iPad, Mac, Apple Watch, and Apple TV](https://aws.amazon.com/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
 - 🍫 [Construct Hub and AWS Cloud Development Kit Version 2](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
 - 🍫 [Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/)
 - 🍫 [FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/)
 - 🍫 [AWS Cloud Development Kit V2 GA](https://aws.amazon.com/cdk/)
+- 🍫 [AWS Resource Access Manager enables support for global resource types](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/)
+- 🍫 [Local zone expansion](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/)
 
 ## Videos & Labs 🍿
 
