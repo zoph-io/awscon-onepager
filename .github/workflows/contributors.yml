@@ -1,10 +1,9 @@
 name: Add contributors
 on:
-  schedule:
-    - cron: '20 20 * * *'
   push:
     branches:
       - master
+  workflow_dispatch:
 
 jobs:
   add-contributors:
