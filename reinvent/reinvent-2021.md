@@ -16,6 +16,8 @@ Caption
 - 🍫 [AWS Backup adds an additional layer for backup protection with the availability of AWS Backup Vault Lock](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/)
 - 🍫 [Amazon SQS Announces Server-Side Encryption with Amazon SQS-managed encryption keys (SSE-SQS)](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sqs-server-side-encryption-keys-sse/)
 - 🍫 [AWS Identity and Access Management now makes it more efficient to troubleshoot access denied errors in AWS](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-identity-access-management-efficient-troubleshoot-error/)
+- 🍫 [AWS Lambda now supports partial batch response for SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-partial-batch-response-sqs-event-source/)
+- 🍫 [AWS Lambda now supports event filtering for Amazon SQS, Amazon DynamoDB, and Amazon Kinesis as event sources](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/)
 
 ## re:Invent'21 (Nov. 29 – Dec. 03, 2021 - Las Vegas, NV)
 
