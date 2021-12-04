@@ -1,3 +1,8 @@
+Caption
+- 🚀 = Launch / New Service
+- 🍫 = New feature / Enhancement
+- 🌊 = Preview
+
 ## Pre-re:Invent'21 Launches 🚀 (November 2021)
 
 - 🚀 [Measure and Improve Your Application Resilience with AWS Resilience Hub](https://aws.amazon.com/blogs/aws/monitor-and-improve-your-application-resiliency-with-resilience-hub/)
@@ -14,9 +19,6 @@
 
 ## re:Invent'21 (Nov. 29 – Dec. 03, 2021 - Las Vegas, NV)
 
-- 🚀 = Launch / New Service
-- 🍫 = New feature / Enhancement
-- 🌊 = Preview
 #### November 29th
 
 - 🌊 [AWS IoT RoboRunner for Building Robot Fleet Management Applications](https://aws.amazon.com/blogs/aws/preview-aws-iot-roborunner-for-building-robot-fleet-management-applications/)
@@ -46,7 +48,7 @@
 - 🍫 [AWS Outposts Servers in Two Form Factors](https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/)
 - 🍫 [Storage-Optimized Amazon EC2 Instances (Im4gn and Is4gen) Powered by AWS Graviton2 Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/)
 - 🍫 [AWS Lake Formation – General Availability of Cell-Level Security and Governed Tables with Automatic Compaction](https://aws.amazon.com/blogs/aws/aws-lake-formation-general-availability-of-cell-level-security-and-governed-tables-with-automatic-compaction/)
-- 🍫 [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacit](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/)
+- 🍫 [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacity](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/)
 
 #### December 1st
 
