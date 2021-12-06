@@ -42,6 +42,7 @@ Caption
 - 🌊 [Amazon EC2 Trn1 Instances (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-trn1-instances/)
 - 🌊 [WS Private 5G (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-aws-private-5g/)
 - 🌊 [AWS Backup Adds Support for Amazon S3](https://aws.amazon.com/blogs/aws/preview-aws-backup-adds-support-for-amazon-s3/)
+- 🌊 [Amazon EC2 C7g Instances Powered by New AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/)
 - 🍫 [Simplify Access Management for Data Stored in Amazon S3](https://aws.amazon.com/blogs/aws/new-simplify-access-management-for-data-stored-in-amazon-s3/)
 - 🍫 [Introducing the S3 Glacier Instant Retrieval Storage Class](https://aws.amazon.com/blogs/aws/amazon-s3-glacier-is-the-best-place-to-archive-your-data-introducing-the-s3-glacier-instant-retrieval-storage-class/)
 - 🍫 [Offline Tape Migration Using AWS Snowball Edge](https://aws.amazon.com/blogs/aws/new-offline-tape-migration-using-aws-snowball-edge/)
@@ -83,6 +84,7 @@ Caption
 - 🍫 [AWS Cloud Development Kit V2 GA](https://aws.amazon.com/cdk/)
 - 🍫 [AWS Resource Access Manager enables support for global resource types](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/)
 - 🍫 [Local zone expansion](https://aws.amazon.com/about-aws/global-infrastructure/localzones/locations/)
+- 🍫 [AWS Lambda now logs Hyperplane Elastic Network Interface (ENI) ID in AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/)
 
 ## Videos & Labs 🍿
 
@@ -92,6 +94,7 @@ Caption
 ## Blog posts 📰
 
 - [Tech Predictions for 2022 and Beyond](https://www.allthingsdistributed.com/2021/12/tech-prediction-for-2022-and-beyond.html)
+- [Chris Farris: re:Invent 2021 Recap](https://www.chrisfarris.com/post/reinvent2021/)
 
 ## Credits 📫
 
