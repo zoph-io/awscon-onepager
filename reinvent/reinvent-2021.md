@@ -88,7 +88,8 @@ Caption
 
 ## Videos & Labs 🍿
 
-- [re:Invent 2021 playlist](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9jfiZENJYPXX8GYUOzQCuT)
+- [re:Invent 2021 Keynotes](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9jfiZENJYPXX8GYUOzQCuT)
+- [re:Invent 2021 Playlists](https://www.youtube.com/c/AWSEventsChannel/playlists?view=1&sort=dd&shelf_id=0)
 - [Youtube Channel](https://www.youtube.com/c/amazonwebservices/videos)
 
 ## Blog posts 📰
