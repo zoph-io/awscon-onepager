@@ -68,6 +68,7 @@ Don't hesitate to contribute to this one-pagers, just create a Pull Request from
 
 [![zoph.io logo](https://zoph.io/img/logo-right.png)](https://zoph.io)
 
-- [zoph.io](https://zoph.io) - AWS consulting boutique (Architecture, Security, and Automation)
-- :mag_right: Follow updates made to AWS Managed IAM Policies using [MAMIP](https://github.com/z0ph/MAMIP) and this [Twitter bot](https://twitter.com/mamip_aws).
-- :love_letter: [AWS Security Digest Newsletter](http://asd.zoph.io)
+- :brain: AWS Consulting boutique - [zoph.io](https://zoph.io) (Architecture, Security, and Automation)
+- :mag_right: Follow updates made to AWS Managed IAM Policies using [MAMIP](https://github.com/z0ph/MAMIP) and associated bots: [@mamip_aws](https://twitter.com/mamip_aws) | [@mase_aws](https://twitter.com/mase_aws) | [@mgda_aws](https://twitter.com/mgda_aws).
+- :love_letter: [AWS Security Digest Newsletter](https://asd.zoph.io)
+- :money_with_wings: Tackle your unusd AWS assets with [unusd.cloud](https://unusd.cloud)
