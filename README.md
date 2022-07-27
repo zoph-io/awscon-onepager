@@ -73,3 +73,5 @@ Don't hesitate to contribute to this one-pagers, just create a Pull Request from
 - :mag_right: Follow updates made to AWS Managed IAM Policies using [MAMIP](https://github.com/z0ph/MAMIP) and associated bots: [@mamip_aws](https://twitter.com/mamip_aws) | [@mase_aws](https://twitter.com/mase_aws) | [@mgda_aws](https://twitter.com/mgda_aws).
 - :love_letter: [AWS Security Digest Newsletter](https://asd.zoph.io)
 - :money_with_wings: Tackle your unusd AWS assets with [unusd.cloud](https://unusd.cloud)
+
+![](https://track.zoph.io/image/puCwRxwCB9TMY7KAbE6z.png)
