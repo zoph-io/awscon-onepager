@@ -10,6 +10,7 @@ This repository intend to centralize digest one-pagers recap about [AWS Events /
    - [2020](reinvent/reinvent-2020.md)
    - [2021](reinvent/reinvent-2021.md)
 2. [re:Inforce](https://reinforce.awsevents.com/)
+   - [2022](reinforce/reinforce-2022.md)
 3. [re:Mars](https://remars.amazonevents.com/)
 4. [Innovate](https://aws.amazon.com/events/aws-innovate/)
 
