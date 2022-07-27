@@ -19,16 +19,16 @@ Caption
 - []()
 - []()
 
-## Videos & Labs 🍿
+## 🍿 Videos & Labs
 
 - [Youtube Channel](https://www.youtube.com/c/AWSEventsChannel)
 
-## Blog posts 📰
+## 📰 Blog posts
 
-## Credits 📫
+## 📫 Credits
 
 [![zoph.io logo](https://zoph.io/img/logo-right.png)](https://zoph.io)
 
-- [re:Inforce](https://reinforce.awsevents.com/)
-- [@zoph](https://twitter.com/zoph) / [Blog](https://zoph.me/)
-- [zoph.io - Cloud Advisory Boutique](https://zoph.io)
+- :muscle: [re:Inforce website](https://reinforce.awsevents.com/)
+- 💌 [@zoph](https://twitter.com/zoph) / [Blog](https://zoph.me/)
+- :shopping_cart: [zoph.io - Cloud Advisory Boutique](https://zoph.io)
