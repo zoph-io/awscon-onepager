@@ -1,6 +1,6 @@
 # 📝 AWScon-OnePager
 
-This repository intend to centralize digest one-pagers recap about [AWS Events / Conferences](https://aws.amazon.com/events/).
+This repository intends to centralize digest one-pagers recap about [AWS Events / Conferences](https://aws.amazon.com/events/).
 
 ## Index
 
@@ -9,6 +9,7 @@ This repository intend to centralize digest one-pagers recap about [AWS Events /
    - [2019](reinvent/reinvent-2019.md)
    - [2020](reinvent/reinvent-2020.md)
    - [2021](reinvent/reinvent-2021.md)
+   - [2022](reinvent/reinvent-2022.md)
 2. [re:Inforce](https://reinforce.awsevents.com/)
    - [2022](reinforce/reinforce-2022.md)
 3. [re:Mars](https://remars.amazonevents.com/)
@@ -63,15 +64,16 @@ This repository intend to centralize digest one-pagers recap about [AWS Events /
 
 ## Contribute
 
-Don't hesitate to contribute to this one-pagers, just create a Pull Request from your forked git repository. Thanks! 🤝
+Please, don't hesitate to contribute to these one-pagers, just create a Pull Request from your forked git repository. Thanks! 🤝
 
 ## About
 
 [![zoph.io logo](https://zoph.io/img/logo-right.png)](https://zoph.io)
 
-- :brain: AWS Consulting boutique - [zoph.io](https://zoph.io) (Architecture, Security, and Automation)
-- :mag_right: Follow updates made to AWS Managed IAM Policies using [MAMIP](https://github.com/z0ph/MAMIP) and associated bots: [@mamip_aws](https://twitter.com/mamip_aws) | [@mase_aws](https://twitter.com/mase_aws) | [@mgda_aws](https://twitter.com/mgda_aws).
-- :love_letter: [AWS Security Digest Newsletter](https://asd.zoph.io)
+- :brain: AWS Consulting boutique - [zoph.io](https://zoph.io) (Architecture Design, Security, and Automation)
 - :money_with_wings: Tackle your unusd AWS assets with [unusd.cloud](https://unusd.cloud)
+- :love_letter: [AWS Security Digest Newsletter](https://asd.zoph.io)
+- :mag_right: Follow updates made to AWS Managed IAM Policies using [MAMIP](https://github.com/z0ph/MAMIP) and associated bots: [@mamip_aws](https://twitter.com/mamip_aws) | [@mase_aws](https://twitter.com/mase_aws) | [@mgda_aws](https://twitter.com/mgda_aws).
+
 
 ![](https://track.zoph.io/image/puCwRxwCB9TMY7KAbE6z.png)
