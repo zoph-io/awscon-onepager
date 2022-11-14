@@ -9,6 +9,7 @@ Caption
   - 🚀 [Announcing AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/)
   - 🍫 [AWS CloudTrail announces delegated administrator account support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/)
   - 🍫 [AWS Config now supports 14 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/)
+  - 🍫 [Introducing Amazon EventBridge Scheduler](https://aws.amazon.com/blogs/compute/introducing-amazon-eventbridge-scheduler/)
 </details>
 
 
