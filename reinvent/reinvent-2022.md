@@ -3,21 +3,32 @@ Caption
 - 🍫 = New feature / Enhancement
 - 🌊 = Preview
 
-## 🚀 Pre-re:Invent'22 Launches (November 2022)
+<details>
+  <summary>🚀 Pre-re:Invent'22 Launches (November 2022)</summary>
+  
+  - 🚀 [Announcing AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/)
+  - 🍫 [AWS CloudTrail announces delegated administrator account support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/)
+  - 🍫 [AWS Config now supports 14 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/)
+</details>
 
 
-## re:Invent'21 (NOV. 28 – DEC. 2, 2022 | LAS VEGAS, NV)
+## re:Invent'22 (NOV. 28 – DEC. 2, 2022 | LAS VEGAS, NV)
 
-#### November 28th
+<details>
+<summary>November 28th</summary>
+</details>
 
+<details>
+<summary>November 29th</summary>
+</details>
 
-#### November 29th
+<details>
+<summary>November 30th</summary>
+</details>
 
-
-#### November 30th
-
-
-#### December 1st
+<details>
+<summary>December 1st</summary>
+</details>
 
 
 ## 🍿 Videos & Labs 
@@ -32,6 +43,6 @@ Caption
 ## 📫 Credits 
 
 [![zoph.io logo](https://zoph.io/img/logo-right.png)](https://zoph.io)
+* [AWS Security Digest](https://awssecuritydigest.com)
 * [re:Invent](https://reinvent.awsevents.com/)
 * [@zoph](https://twitter.com/zoph) / [Blog](https://zoph.me/)
-* [zoph.io - Cloud Advisory Boutique](https://zoph.io)
