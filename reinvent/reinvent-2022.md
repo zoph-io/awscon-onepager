@@ -11,6 +11,7 @@ Caption
   - 🍫 [AWS Config now supports 14 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/)
   - 🍫 [Introducing Amazon EventBridge Scheduler](https://aws.amazon.com/blogs/compute/introducing-amazon-eventbridge-scheduler/)
   - 🍫 [Amazon S3 request-level information on use of access control lists (ACLs) coming to S3 server access logs and AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/)
+  - 🍫 [Amazon SQS announces attribute-based access control (ABAC) for flexible and scalable access permissions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sqs-attribute-based-access-control-abac-flexible-scalable-access-permissions/)
 </details>
 
 
