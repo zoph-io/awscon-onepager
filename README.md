@@ -1,4 +1,6 @@
-# 📝 AWScon-OnePager
+# 📝 AWScon-OnePager (no longer maintained)
+
+> 2022-11-29: This repository is no longer maintained as there is better alternatives nowadays: [here](https://awsnews.info), [here](https://aws.amazon.com/about-aws/whats-new/2022/) or [here](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2022/).
 
 This repository intends to centralize digest one-pagers recap about [AWS Events / Conferences](https://aws.amazon.com/events/).
 
